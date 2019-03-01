@@ -1,0 +1,17 @@
+C:\Users\vagrant\source\test\MasterMind\MasterMindTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vagrant\source\test\MasterMind\MasterMindTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vagrant\source\test\MasterMind\MasterMindTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vagrant\source\test\MasterMind\MasterMindTests\bin\Debug\MasterMindTests.dll
+C:\Users\vagrant\source\test\MasterMind\MasterMindTests\bin\Debug\MasterMindTests.pdb
+C:\Users\vagrant\source\test\MasterMind\MasterMindTests\bin\Debug\MasterMind.exe
+C:\Users\vagrant\source\test\MasterMind\MasterMindTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vagrant\source\test\MasterMind\MasterMindTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vagrant\source\test\MasterMind\MasterMindTests\bin\Debug\MasterMind.pdb
+C:\Users\vagrant\source\test\MasterMind\MasterMindTests\bin\Debug\MasterMind.exe.config
+C:\Users\vagrant\source\test\MasterMind\MasterMindTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\vagrant\source\test\MasterMind\MasterMindTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\vagrant\source\test\MasterMind\MasterMindTests\obj\Debug\MasterMindTests.csprojAssemblyReference.cache
+C:\Users\vagrant\source\test\MasterMind\MasterMindTests\obj\Debug\MasterMindTests.csproj.CoreCompileInputs.cache
+C:\Users\vagrant\source\test\MasterMind\MasterMindTests\obj\Debug\MasterMindTests.csproj.CopyComplete
+C:\Users\vagrant\source\test\MasterMind\MasterMindTests\obj\Debug\MasterMindTests.dll
+C:\Users\vagrant\source\test\MasterMind\MasterMindTests\obj\Debug\MasterMindTests.pdb
